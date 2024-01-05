@@ -13,4 +13,6 @@ Branch 1
 
 ## Conflicts
 
+Conflict branch
 Some conflict
+
