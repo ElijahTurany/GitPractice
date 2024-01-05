@@ -11,6 +11,6 @@ Commit 3
 
 Branch 1
 
-##Conflicts
+## Conflicts
 
 Conflict branch
