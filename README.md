@@ -6,3 +6,7 @@ Practice using Git
 
 Commit 2
 Commit 3
+
+## Branches
+
+Branch 1
